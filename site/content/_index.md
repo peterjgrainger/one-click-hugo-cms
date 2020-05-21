@@ -1,6 +1,6 @@
 ---
-title: GitHub Guru
-subtitle: Tips on GitHub Actions
+title: GitHub Pro
+subtitle: GitHub tips and tricks
 image: img/955-9558163_transparent-github-logo.png
 blurb:
   heading: Why Kaldi?
